@@ -1,0 +1,96 @@
+body {
+	background: linear-gradient(to bottom right,#79C753,#F6D155);
+	height:1800px;
+
+	
+}
+
+div.titleHead {
+	background-color: #006e51;
+	background-position: absolute;
+	left: 5%;
+	top: 1.7%;
+	height:5%;
+	width:100%;
+}
+
+/* div section */
+div.articleSection {
+	background-color:white;
+	position: relative;
+	left:5%;
+	top:5%;
+	height:30%;
+	width:90%;
+}
+
+div.article1stStory {
+	background-color: blue;
+	height: 100%;
+	width: 30.5%;
+	position: relative;
+}
+
+div.article2ndStory {
+	background-color: blue;
+	height: 100%;
+	width: 30.5%;
+	left: 35%;
+	position: relative;
+	
+}
+
+div.article3rdStory {
+	background-color: blue;
+	height: 100%;
+	width: 30.5%;
+	right:0%;
+	position: relative;
+}
+
+div.whiteSpace {
+
+	top: 1000px;
+	height:15%;
+	width:100%;
+	
+}
+
+div.lashMore {
+	background-color: #006E51;
+	top: 1000px;
+	height:30%;
+	width:100%;
+	
+}
+
+
+
+/* article section */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
