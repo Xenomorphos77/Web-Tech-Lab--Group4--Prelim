@@ -1,0 +1,174 @@
+body.main {
+	background: url("wawa.jpg");
+	height:3000px;
+	
+}
+
+#bodyStyle1 {
+	background-color:blue;
+	height:1800px;
+	width:100%;
+}
+
+nav {
+	display:inline-block;
+}
+
+/* Div section */
+
+div.headMenu {
+	background-color:green;
+	width:100%;
+	height:2.5%;
+	display:inline-block;
+}
+
+div.headLine {
+	height:10%;
+	width:100%;
+	background-image: url("drugheadline.jpg");
+	background-size:cover;
+	top:-12.5%;
+	opacity:1.1;
+}
+
+div.articleSection {
+	
+	display:inline-block;
+	background-color:white;
+	height:27%;
+	width:100%;
+	
+}
+
+div.articleBody{
+	display:inline-block;
+	background-color:yellow;
+	height:40%;
+	width:100%;
+}
+
+div.headLineLowerPart {
+	height:30%;
+	width:100%;
+	
+}
+
+div.bodyAboutBarangay {
+	height:38%;
+	width:100%;
+	background-color:green;
+	display:inline-block;
+}
+
+div.bodyArticleAboutBarangay {
+	width:100%;
+	height:100%;
+}
+
+
+
+div.signupNow {
+	height:20%;
+	width:100%;
+	background-color:white;
+	display:inline-block;
+}
+
+#articlebodyStyle1 {
+	display:inline-block;
+}
+
+#articlebodyStyle2 {
+	
+}
+
+
+
+/* div and a tag (for buttons) */
+
+div.headerButton {
+	height:100%;
+	width:50px;
+	
+}
+a.headerLink {
+	
+}
+
+a.headerLink:hover .link {
+	background-color:yellow;
+    color: white;
+    padding: 25px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	width:10%;
+	
+	
+}
+
+
+/* section attributes and article atributes*/
+
+section {
+	display:inline;
+}
+
+article {
+	display:inline-block;
+}
+
+header {
+	display:inline-block;
+}
+
+footer.endBody {
+	display:inline-block;
+}
+
+/* paragraphs and texts attributes*/
+
+p.headLine {
+	font-size:18px;
+	color:white;
+	font-family:sanseriff;
+	
+}
+
+p.paraAboutBarangay {
+	font-size:20px;
+	color:white;
+	font-family:calibri;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
